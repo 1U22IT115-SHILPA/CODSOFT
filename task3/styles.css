@@ -52,7 +52,6 @@ body {
 }
 
 .equal {
-  grid-column: span 2;
   background-color: #007bff;
   color: #fff;
 }
