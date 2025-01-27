@@ -5,11 +5,11 @@ body {
   align-items: center;
   height: 100vh;
   margin: 0;
-  background-color: #f4f4f4;
+  background-color: #F8F1F1;
 }
 
 .calculator {
-  background-color: #fff;
+  background-color: #FFFFFF;
   border-radius: 10px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
   width: 300px;
@@ -18,8 +18,8 @@ body {
 
 .display {
   font-size: 2rem;
-  background-color: #222;
-  color: #fff;
+  background-color: #E8F6EF;
+  color: #2B2B2B;
   text-align: right;
   padding: 10px;
   border-radius: 5px;
@@ -40,12 +40,12 @@ body {
   border: none;
   border-radius: 5px;
   cursor: pointer;
-  background-color: #f0f0f0;
+  background-color: #D6E4F0;
   transition: background-color 0.3s ease;
 }
 
 .btn:hover {
-  background-color: #ddd;
+  background-color: #BCCEDD;
 }
 
 .zero {
