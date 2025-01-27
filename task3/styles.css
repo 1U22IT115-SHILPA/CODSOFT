@@ -66,3 +66,19 @@ body {
 .equal:hover {
   background-color: #e07a7a;
 }
+
+.btn:nth-child(1), .btn:nth-child(2) {
+  background-color: #ffddc1; /* Pastel Apricot */
+}
+
+.btn:nth-child(1):hover, .btn:nth-child(2):hover {
+  background-color: #f4c29f; /* Darker Apricot */
+}
+
+.btn:nth-child(3), .btn:nth-child(4), .btn:nth-child(8), .btn:nth-child(12) {
+  background-color: #fce2db; /* Peachy Pastel */
+}
+
+.btn:nth-child(3):hover, .btn:nth-child(4):hover, .btn:nth-child(8):hover, .btn:nth-child(12):hover {
+  background-color: #eac5be; /* Darker Peach */
+}
