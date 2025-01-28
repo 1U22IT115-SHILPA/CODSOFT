@@ -37,7 +37,7 @@ header nav ul li a {
 }
 
 .hero {
-  background-image: url('https://imageplaceholder.net/1600x600');
+  background-image: url('https://imageplaceholder.net/1600x600/eeeeee/131313?text=Your+text');
   background-size: cover;
   background-position: center;
   height: 50vh;
