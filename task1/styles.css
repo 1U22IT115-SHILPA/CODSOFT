@@ -13,9 +13,9 @@ html, body {
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
 
 :root {
-    --primary-color: #FFABAB;  /* Soft Pink */
-    --secondary-color: #FFC3A0; /* Peach */
-    --background-color: #F7EDE2; /* Cream */
+    --primary-color: #CDB4DB;  /* Soft Lavender */
+    --secondary-color: #BDE0FE; /* Light Blue */
+    --background-color: #EDE7F6; /* Pale Lilac */
     --text-color: #4A4A4A; /* Muted Gray */
     --white: #FFFFFF;
 }
