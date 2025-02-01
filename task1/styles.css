@@ -13,11 +13,11 @@ html, body {
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
 
 :root {
-    --primary-color: #ff6b81;
-    --secondary-color: #ff4d6d;
-    --background-color: #f8f9fa;
-    --text-color: #333;
-    --white: #fff;
+    --primary-color: #FFABAB;  /* Soft Pink */
+    --secondary-color: #FFC3A0; /* Peach */
+    --background-color: #F7EDE2; /* Cream */
+    --text-color: #4A4A4A; /* Muted Gray */
+    --white: #FFFFFF;
 }
 
 .container {
