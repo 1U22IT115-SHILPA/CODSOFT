@@ -5,6 +5,10 @@
   box-sizing: border-box;
 }
 
+* {
+    font-family: 'Signika', sans-serif !important;
+}
+
 html, body {
   font-family: 'Signika', sans-serif !important;
   height: 100%;
