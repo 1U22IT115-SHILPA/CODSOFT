@@ -21,6 +21,10 @@ header {
   text-shadow: 2px 2px 4px black;
   font-family: 'Romie', sans-serif;
   font-size: 2.2rem;
+  background-image: url('https://phinf.wevpstatic.net/MjAyMzA1MDlfMzkg/MDAxNjgzNjE4MDYzNDAw.GhnOU0gf_rp1LEp9NYCoCxZnOzGENXc1n4p1hW0sk_Yg.gzmE4su8DhjtCIzwAp0AfJjwNXApZy_Y2Ahan4Ql37Ug.JPEG/71e9109c-e3eb-47da-a42e-3724342f3570.jpeg?type=e1920');  
+  background-size: cover;  
+  background-position: center;  
+  filter: brightness(0.6);
 }
 
 nav ul {
