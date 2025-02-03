@@ -7,11 +7,19 @@ body {
   color: #c41e3a;
 }
 
+@font-face {
+  font-family: 'Romie';
+  src: url('RomieTrial-MediumItalic.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 header {
   background-color: #1a1a1a;
   color: #c41e3a;
   padding: 20px;
   text-shadow: 2px 2px 4px black;
+  font-family: 'Romie', sans-serif;
 }
 
 nav ul {
