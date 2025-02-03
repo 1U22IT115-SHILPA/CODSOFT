@@ -5,6 +5,17 @@
   box-sizing: border-box;
 }
 
+@font-face {
+  font-family: 'Signika';
+  src: url('https://fonts.googleapis.com/css2?family=Signika:wght@300;400;600&display=swap') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+header {
+  font-family: 'Signika', sans-serif;
+}
+
 * {
     font-family: 'Signika', sans-serif !important;
 }
